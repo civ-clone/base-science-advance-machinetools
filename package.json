@@ -13,7 +13,8 @@
   "files": [
     "MachineTools.js",
     "MachineTools.d.ts",
-    "MachineTools.js.map"
+    "MachineTools.js.map",
+    "MachineTools.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
